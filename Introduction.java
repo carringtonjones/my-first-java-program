@@ -15,7 +15,7 @@ public class Introduction
         System.out.println("I went to Beck Academy.");
         System.out.println("My Sister, Madeline, is 22.");
         System.out.println("I like to eat and chill.");
-        System.out.println("I love black and pink.");
+        System.out.println("I like chinese food.");
         
         //now store some numbers 
         int year = 2017;
